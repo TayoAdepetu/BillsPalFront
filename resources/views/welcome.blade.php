@@ -59,7 +59,12 @@
         rel="stylesheet" />
 
     <link rel="shortcut icon" type="image/png" href="/images/logo.png" />
-    <link rel="icon" sizes="192x192" href="/images/logo.png">
+    {{-- <link rel="icon" sizes="192x192" href="/images/logo.png"> --}}
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/logo.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/images/logo.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/images/logo.png">
+    <link rel="apple-touch-icon" href="/images/logo.png">
 
     <title>{{ config('app.name', 'BillsPal') }}</title>
 

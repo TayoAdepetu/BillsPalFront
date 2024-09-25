@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'BillsPal'),
+    'name' => env('APP_NAME', 'BillsPal by BizGrowthTech'),
 
     /*
     |--------------------------------------------------------------------------
