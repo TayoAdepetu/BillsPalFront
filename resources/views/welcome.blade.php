@@ -116,7 +116,7 @@
 
 </head>
 
-<body class="flex flex-col gap-10 bg-white font-satoshi max-w-[1440px] mx-auto">
+<body class="flex flex-col bg-white font-satoshi max-w-[1440px] mx-auto">
     <!-- heading -->
     <header class="flex items-center justify-between p-5 md:px-10">
         <!-- image -->
