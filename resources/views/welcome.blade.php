@@ -130,7 +130,7 @@
         <div role="button" class="flex items-center bg-primary text-white px-4 rounded-[18px]">
             <a href="https://wa.link/s8yuqs" target="_blank"
                 class="flex items-center bg-primary text-white px-4 rounded-[18px]">
-                <span>Get a Website</span>
+                <span>Get Started</span>
                 <img src="/images/whatsapp-icon.png" alt="whatsapp icon" class="w-[40px] h-[40px]" />
             </a>
         </div>
@@ -147,38 +147,20 @@
                     Today
                 </h2>
                 <p class="text-center text-gray-500">
-                    Start making a lot of money by selling data, airtime, electricity
+                    Start making money by selling data, airtime, electricity
                     <br />
                     subscriptions, cable TV subsciptions and more.
                 </p>
             </div>
-            <img src="/images/hero-image.png" alt="" class="-mt-10 md:-mt-34" />
+            <img src="/images/hero-image.png" alt="" class="-mt-12 md:-mt-40" />
         </section>
 
         <!-- mobile app section -->
         <section
             class="flex flex-col lg:flex-row gap-10 items-center justify-between bg-primary p-5 md:p-20 lg:px-10 xl:px-20 text-white">
-            <div class="flex flex-col gap-2 md:gap-5 xl:gap-10 lg:w-[30%]">
-                <h4 class="text-2xl xl:text-3xl font-medium">
-                    Become a Reseller Even If You Don’t Have a Starting Capital
-                </h4>
-                <p>
-                    You can make money by sharing your reseller link to your friends so
-                    that they can buy their Data, Airtime, Electricity Subscriptions,
-                    and Cable TV Subscriptions from you.
-                </p>
-                <p>
-                    Because we don’t want to be competing directly with our resellers,
-                    we don’t sell our products to individuals. We sell only to our
-                    resellers, and that is why we require you pay the sum of #3,000 to
-                    secure a spot as a reseller on the platform.
-                </p>
-            </div>
-            <div>
-                <img src="/images/mobile-app.png" alt="mobile app view" />
-            </div>
-            <div class="flex flex-col gap-2 md:gap-5 xl:gap-10 lg:w-[30%]">
-                <h4 class="text-2xl xl:text-3xl font-medium">Start Making Money</h4>
+
+            <div class="flex flex-col gap-2 md:gap-5 xl:gap-10 lg:w-[30%] text-center">
+                <h4 class="text-2xl xl:text-3xl font-medium">Choose From Multiple API Providers (Wholesalers)</h4>
                 <p>
                     Get a website and mobile application that is well-optimized to help
                     you get the best deals on data subscription from all networks,
@@ -186,12 +168,38 @@
                     purchase from the best providers per time.
                 </p>
                 <p>
-                    For example, for data subscription, because your website and mobile
+                    For example, for Data Subscription, because your website and mobile
                     app is connected to several data-purchase providers, you can switch
                     from one provider to another when you notice that a provider is
                     offering to sell to you at a cheaper price or that their service is
-                    currently more reliable.
+                    currently more reliable. You can do the same thing for your Airtime, Cable TV, Electricity
+                    Subscription, etc.
                 </p>
+                <p>This means you're able to buy from the best providers within the country at the cheapest prices and
+                    sell to your customers at the best prices as well. Everyone is happy.</p>
+            </div>
+
+            <div>
+                <img src="/images/mobile-app.png" alt="mobile app view" />
+            </div>
+
+            <div class="flex flex-col gap-2 md:gap-5 xl:gap-10 lg:w-[30%] text-center">
+                <h4 class="text-2xl xl:text-3xl font-medium">
+                    Reliable Technical Support Team
+                </h4>
+                <p>
+                    The development team for BillsPal comprises reliable Software Engineers that knows the bills payment
+                    system, in and out. They are always available to assist you when you need their support.
+                </p>
+                <p>
+                    Meanwhile,
+                    if you already have a bills payment website or mobile application (even if you didn't get it from
+                    us) and you just need to maintain it or add more features, our team can help you maintain it without
+                    stressing you.
+                </p>
+                <p>Apart from our Website Design, Website Development, Mobile App Development, and Software Development
+                    services, we also provide website hosting, domain name purchase, website maintenance, and mobile app
+                    upload to both Google Store and Apple Store.</p>
             </div>
         </section>
 
@@ -202,16 +210,17 @@
                 <div
                     class="flex flex-col md:w-[48%] bg-gradient-to-b gap-5 from-[#E3F1FF] to-white px-3 py-6 md:p-6 rounded-lg shadow-lg">
                     <div class="flex flex-col gap-4">
-                        <h5 class="text-2xl font-medium text-gray-800">Website Owners</h5>
+                        <h5 class="text-2xl font-medium text-gray-800 text-center">Need a New Bills Payment Website?
+                        </h5>
                         <p class="text-[#868686]">
                             People who want to have their own bills payment website where
                             they can sell Data, Airtime, Electricity Subscription, and Cable
                             TV Subscription.
                         </p>
-                        <button
-                            class="bg-primary hover:bg-white hover:text-primary transition-all duration-300 border border-primary text-white py-2 px-4 rounded-full">
+                        <a href="https://wa.link/s8yuqs" target="_blank"
+                            class="bg-primary hover:bg-white hover:text-primary transition-all duration-300 border border-primary text-white py-2 px-4 rounded-full text-center">
                             Get Started
-                        </button>
+                        </a>
                     </div>
                     <ul class="flex flex-col gap-2 text-[#868686]">
                         <li class="flex items-start gap-1">
@@ -238,11 +247,11 @@
                         <li class="flex items-start gap-1">
                             <img src="/images/check-img.png" alt="check icon" class="w-[24px] h-[24px]" />
                             <span>Allow users to upgrade to a Reseller Account and earn by
-                                reselling.</span>
+                                reselling your products.</span>
                         </li>
                         <li class="flex items-start gap-1">
                             <img src="/images/check-img.png" alt="check icon" class="w-[24px] h-[24px]" />
-                            <span>Access our responsive technical support whenever
+                            <span>Access our responsive technical support team whenever
                                 needed.</span>
                         </li>
                         <li class="flex items-start gap-1">
@@ -254,42 +263,42 @@
                 <div
                     class="flex flex-col gap-5 md:w-[48%] bg-gradient-to-b from-[#E3F1FF] to-white px-3 py-6 md:p-6 rounded-lg shadow-lg">
                     <div class="flex flex-col gap-4">
-                        <h5 class="text-2xl font-medium">Resellers</h5>
+                        <h5 class="text-2xl font-medium text-center">Need To Add More Features To an Existing
+                            Website/Mobile App
+                        </h5>
                         <p class="text-[#868686]">
-                            People who would like to make money by reselling data and
-                            airtime, electricity and Cable TV subscriptions, and WAEC or
-                            JAMB result checkers.
+                            Get access to a team of reliable Software Engineers who can help you maintain your website
+                            or mobile application.
                         </p>
-                        <button
-                            class="bg-primary hover:bg-white hover:text-primary transition-all duration-300 border border-primary text-white py-2 px-4 rounded-full">
+                        <a href="https://wa.link/s8yuqs" target="_blank"
+                            class="bg-primary hover:bg-white hover:text-primary transition-all duration-300 border border-primary text-white py-2 px-4 rounded-full text-center">
                             Get Started
-                        </button>
+                        </a>
                     </div>
                     <ul class="flex flex-col gap-2 text-[#868686]">
                         <li class="flex items-start gap-1">
                             <img src="/images/check-img.png" alt="check icon" class="w-[24px] h-[24px]" />
-                            <span>Start a business with daily recurring income by registering
-                                for just ₦3,000.</span>
+                            <span>Don't let your business get stranded. Our responsive and timely Technical Support Team
+                                will ensure your website/mobile app is always functional.</span>
                         </li>
                         <li class="flex items-start gap-1">
                             <img src="/images/check-img.png" alt="check icon" class="w-[24px] h-[24px]" />
-                            <span>Get a unique storefront link to share with your
-                                customers.</span>
+                            <span>Whether you got the website or mobile application through us or not, we can still help
+                                you add more features to your existing website or mobile app without breaking the
+                                bank.</span>
                         </li>
                         <li class="flex items-start gap-1">
                             <img src="/images/check-img.png" alt="check icon" class="w-[24px] h-[24px]" />
-                            <span>Enjoy a distraction-free storefront, ensuring your customers
-                                only see your offerings.</span>
+                            <span>We help with all sorts of Cloud Management Services, including website hosting, mobile
+                                app upload to Google Store and Apple, etc.</span>
                         </li>
                         <li class="flex items-start gap-1">
                             <img src="/images/check-img.png" alt="check icon" class="w-[24px] h-[24px]" />
-                            <span>Withdraw earnings to your bank account every last Friday of
-                                the month.</span>
+                            <span>We also help ensure website security for both you and your users.</span>
                         </li>
                         <li class="flex items-start gap-1">
                             <img src="/images/check-img.png" alt="check icon" class="w-[24px] h-[24px]" />
-                            <span>Future features include showcasing and selling handpicked
-                                physical products in your storefront.</span>
+                            <span>Our services and prompt, timely, and afforadble.</span>
                         </li>
                     </ul>
                 </div>
@@ -328,9 +337,9 @@
                             <img src="/images/down-icon.png" alt="" />
                         </div>
                         <div class="faq-answer max-h-0 overflow-hidden transition-all duration-300 ease-in-out">
-                            <span class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
-                                unde iste harum neque voluptatem optio exercitationem iure
-                                perspiciatis. Ullam, nostrum.</span>
+                            <span class="text-sm">Just click on any of the "Get Started" buttons you see on this page
+                                and it will lead you directly to our WhatsApp where all the details will be discussed
+                                and finalized.</span>
                         </div>
                     </li>
                     <li class="faq-item flex flex-col gap-1 bg-[#ECF5FF] p-2 rounded-md text-primary">
@@ -339,9 +348,8 @@
                             <img src="/images/down-icon.png" alt="" />
                         </div>
                         <div class="faq-answer max-h-0 overflow-hidden transition-all duration-300 ease-in-out">
-                            <span class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
-                                unde iste harum neque voluptatem optio exercitationem iure
-                                perspiciatis. Ullam, nostrum.</span>
+                            <span class="text-sm">To get your own bills payment website and mobile application with
+                                your own domain name and hosting for one year, the total cost is &#x20A6 300,000.</span>
                         </div>
                     </li>
                     <li class="faq-item flex flex-col gap-1 bg-[#ECF5FF] p-2 rounded-md text-primary">
@@ -350,9 +358,9 @@
                             <img src="/images/down-icon.png" alt="" />
                         </div>
                         <div class="faq-answer max-h-0 overflow-hidden transition-all duration-300 ease-in-out">
-                            <span class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
-                                unde iste harum neque voluptatem optio exercitationem iure
-                                perspiciatis. Ullam, nostrum.</span>
+                            <span class="text-sm">If you don't have money to get your own bills payment website
+                                immediately, we can link you up with one of our customers who you can partner with as a
+                                resller and make money.</span>
                         </div>
                     </li>
                     <li class="faq-item flex flex-col gap-1 bg-[#ECF5FF] p-2 rounded-md text-primary">
@@ -361,9 +369,8 @@
                             <img src="/images/down-icon.png" alt="" />
                         </div>
                         <div class="faq-answer max-h-0 overflow-hidden transition-all duration-300 ease-in-out">
-                            <span class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
-                                unde iste harum neque voluptatem optio exercitationem iure
-                                perspiciatis. Ullam, nostrum.</span>
+                            <span class="text-sm">We have a team of highly-dedicated Software Engineers who can help
+                                you at anytime you need help.</span>
                         </div>
                     </li>
                     <li class="faq-item flex flex-col gap-1 bg-[#ECF5FF] p-2 rounded-md text-primary">
@@ -372,9 +379,9 @@
                             <img src="/images/down-icon.png" alt="" />
                         </div>
                         <div class="faq-answer max-h-0 overflow-hidden transition-all duration-300 ease-in-out">
-                            <span class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
-                                unde iste harum neque voluptatem optio exercitationem iure
-                                perspiciatis. Ullam, nostrum.</span>
+                            <span class="text-sm">Yes, we can help you manage both ypur website and mobile application
+                                whether they are for bills payment or any other thing. We have a team of skilled
+                                Software Development Engineers who can meet all your software development needs.</span>
                         </div>
                     </li>
                 </ul>
@@ -398,7 +405,7 @@
                     class="flex flex-col items-center bg-primary text-white px-4 rounded-[18px] self-center">
                     <a href="https://wa.link/s8yuqs" target="_blank"
                         class="flex flex-col items-center bg-primary text-white px-4 rounded-[18px] self-center">
-                        <span>Get a Website</span>
+                        <span>Get Started</span>
                         <img src="/images//whatsapp-icon.png" alt="whatsapp icon" class="w-[40px] h-[40px]" />
                     </a>
                 </div>
