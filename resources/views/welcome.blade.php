@@ -120,12 +120,12 @@
         <img class="w-[90px] h-[60px] md:w-[132px] md:h-[96.66px]" src="/images/logo.png" alt="billspal logo" />
 
         <!-- contact button -->
-        <div role="button" class="flex items-center bg-primary text-white px-4 rounded-[18px]">
+        {{-- <div role="button" class="flex items-center bg-primary text-white px-4 rounded-[18px]">
             <a href="{{ route('home') }}" target="_blank"
                 class="flex items-center bg-primary text-white px-4 rounded-[18px]">
                 <span>Become a Reseller</span>
             </a>
-        </div>
+        </div> --}}
 
         <div role="button" class="flex items-center bg-primary text-white px-4 rounded-[18px]">
             <a href="https://wa.link/s8yuqs" target="_blank"
@@ -387,12 +387,12 @@
                 <img class="w-[90px] h-[60px] md:w-[132px] md:h-[96.66px]" src="/images//logo-white.png"
                     alt="billspal logo" />
 
-                <div role="button" class="flex items-center bg-primary text-white px-4 rounded-[18px]">
+                {{-- <div role="button" class="flex items-center bg-primary text-white px-4 rounded-[18px]">
                     <a href="{{ route('home') }}" target="_blank"
                         class="flex items-center bg-primary text-white px-4 rounded-[18px]">
                         <span>Become a Reseller</span>
                     </a>
-                </div>
+                </div> --}}
 
                 <div role="button"
                     class="flex flex-col items-center bg-primary text-white px-4 rounded-[18px] self-center">
