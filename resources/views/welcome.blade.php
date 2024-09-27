@@ -118,30 +118,20 @@
 
 <body class="flex flex-col bg-white font-satoshi max-w-[1440px] mx-auto">
     <!-- heading -->
-    <header class="flex items-center justify-between p-5 md:px-10">
+    <header class="flex items-center justify-between p-3 md:p-5 md:px-10">
         <!-- image -->
         <img class="w-[150px] md:w-[200px]" src="/images/newbillspal.svg" alt="billspal logo" />
-        {{-- <div class="text-primary">
-            <h2 style="font-weight: 800">BillsPal</h2>
-            <small>Passive Income Without Limit</small>
-        </div> --}}
 
-        <!-- contact button -->
-        {{-- <div role="button" class="flex items-center bg-primary text-white px-4 rounded-[18px]">
-            <a href="{{ route('home') }}" target="_blank"
-                class="flex items-center bg-primary text-white px-4 rounded-[18px]">
-                <span>Become a Reseller</span>
-            </a>
-        </div> --}}
-
-        <div role="button" class="flex items-center bg-primary text-white px-4 rounded-[18px]">
-            <a href="https://wa.link/s8yuqs" target="_blank"
-                class="flex items-center bg-primary text-white px-4 rounded-[18px]">
-                <span>Get Started</span>
-                <img src="/images/whatsapp-icon.png" alt="whatsapp icon" class="w-[40px] h-[40px]" />
-            </a>
-        </div>
+        <!-- button -->
+        <a href="https://wa.link/s8yuqs" target="_blank"
+            class="flex items-center bg-primary text-white px-3 py-2 md:px-4 rounded-[18px]">
+            <span class="mr-2">Get Started</span>
+            <img src="/images/whatsapp-icon.png" alt="whatsapp icon"
+                class="w-[30px] h-[30px] md:w-[40px] md:h-[40px]" />
+        </a>
     </header>
+
+    <br />
 
     <!-- hero section -->
     <main class="flex flex-col gap-16">
@@ -153,6 +143,7 @@
                         Website</span>
                     Today
                 </h2>
+                <br />
                 <p class="text-center text-gray-500">
                     Start making money by selling data, airtime, electricity
                     <br />
