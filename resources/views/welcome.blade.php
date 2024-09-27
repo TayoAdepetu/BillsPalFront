@@ -120,7 +120,11 @@
     <!-- heading -->
     <header class="flex items-center justify-between p-5 md:px-10">
         <!-- image -->
-        <img class="w-[90px] h-[60px] md:w-[132px] md:h-[96.66px]" src="/images/logo_white.svg" alt="billspal logo" />
+        <img class="w-[150px] md:w-[200px]" src="/images/newbillspal.svg" alt="billspal logo" />
+        {{-- <div class="text-primary">
+            <h2 style="font-weight: 800">BillsPal</h2>
+            <small>Passive Income Without Limit</small>
+        </div> --}}
 
         <!-- contact button -->
         {{-- <div role="button" class="flex items-center bg-primary text-white px-4 rounded-[18px]">
@@ -394,8 +398,8 @@
         <!-- footer -->
         <footer class="bg-primary text-white p-5 md:p-10">
             <div class="flex flex-col md:flex-row gap-5 items-center justify-between">
-                <img class="w-[90px] h-[60px] md:w-[132px] md:h-[96.66px]" src="/images//logo.svg"
-                    alt="billspal logo" />
+                <img class="w-[150px] md:w-[200px]" src="/images/newbillspalwhite.svg" alt="billspal logo" />
+
 
                 {{-- <div role="button" class="flex items-center bg-primary text-white px-4 rounded-[18px]">
                     <a href="{{ route('home') }}" target="_blank"
