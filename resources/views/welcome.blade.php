@@ -410,7 +410,7 @@
                 <div class="flex items-center gap-2">
                     <span>Copyright</span>
                     <img src="/images/copyright.png" alt="" />
-                    <span> 2024 - <a href="bizgrowthtech.bizgrowtherz.com">BizGrowthTeck</a>, All Rights
+                    <span> 2024 - <a href="bizgrowthtech.bizgrowtherz.com">BizGrowthTech</a>, All Rights
                         Reserved.</span>
                 </div>
             </div>
