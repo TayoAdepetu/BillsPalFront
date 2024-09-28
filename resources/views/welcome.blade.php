@@ -208,7 +208,8 @@
                 <div
                     class="flex flex-col md:w-[48%] bg-gradient-to-b gap-5 from-[#E3F1FF] to-white px-3 py-6 md:p-6 rounded-lg shadow-lg">
                     <div class="flex flex-col gap-4">
-                        <h5 class="text-2xl font-medium text-gray-800 text-center">Need a New Bills Payment Website?
+                        <h5 class="text-2xl font-medium text-gray-800 text-center">Need a New Bills Payment Website or
+                            Mobile App?
                         </h5>
                         <p class="text-[#868686]">
                             People who want to have their own bills payment website where
@@ -262,7 +263,7 @@
                     class="flex flex-col gap-5 md:w-[48%] bg-gradient-to-b from-[#E3F1FF] to-white px-3 py-6 md:p-6 rounded-lg shadow-lg">
                     <div class="flex flex-col gap-4">
                         <h5 class="text-2xl font-medium text-center">Need To Add More Features To an Existing
-                            Website/Mobile App
+                            Website/Mobile App?
                         </h5>
                         <p class="text-[#868686]">
                             Get access to a team of reliable Software Engineers who can help you maintain your website
